@@ -1,0 +1,195 @@
+2022-11-24 09:29:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 09:29:56 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2022-11-24 09:29:56 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 09:29:56 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2022-11-24 09:33:45 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 09:33:50 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2022-11-24 09:33:50 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 09:33:50 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2022-11-24 09:35:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 09:35:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1299311707
+2022-11-24 09:35:54 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 09:35:54 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2022-11-24 09:45:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 09:45:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started807986446
+2022-11-24 09:45:11 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 09:45:11 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 09:48:15 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 09:48:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1338770454
+2022-11-24 09:48:21 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 09:48:21 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 09:50:20 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 09:50:22 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started128028301
+2022-11-24 09:50:22 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 09:50:22 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2022-11-24 09:50:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 09:50:55 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started807986446
+2022-11-24 09:51:00 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 09:51:00 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 10:03:20 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 10:03:22 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started866901553
+2022-11-24 10:03:26 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 10:03:26 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 10:16:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 10:16:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started128028301
+2022-11-24 10:16:52 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 10:16:52 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 10:18:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 10:18:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1338770454
+2022-11-24 10:18:54 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 10:18:54 [INFO ] [Base] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 10:32:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 10:32:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 10:32:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started807986446
+2022-11-24 10:32:50 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 10:32:50 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 10:55:32 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 10:55:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 10:55:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1332208607
+2022-11-24 10:55:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 10:55:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 10:57:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 10:57:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 10:57:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started844872102
+2022-11-24 10:57:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 10:57:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 10:57:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 10:57:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 10:57:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started267769073
+2022-11-24 10:57:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 10:57:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 10:59:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 10:59:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 10:59:06 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1635358020
+2022-11-24 10:59:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 10:59:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 11:12:05 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 11:12:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 11:12:10 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1198442960
+2022-11-24 11:12:18 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 11:12:18 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-24 11:13:35 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 11:13:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 11:13:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started739703515
+2022-11-24 11:13:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 11:13:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-24 11:18:01 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 11:18:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 11:18:04 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1139801481
+2022-11-24 11:18:07 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 11:18:07 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-24 11:24:25 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 11:24:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 11:24:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started844872102
+2022-11-24 11:24:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 11:24:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 11:29:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 11:29:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 11:29:20 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started844872102
+2022-11-24 11:29:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 11:29:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 11:40:32 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 11:40:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 11:40:34 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1198442960
+2022-11-24 11:40:38 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 11:40:38 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-24 11:42:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 11:42:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 11:42:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1635358020
+2022-11-24 11:42:06 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 11:42:06 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-24 11:49:16 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-24 11:49:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-24 11:49:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1198442960
+2022-11-24 11:49:23 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-24 11:49:23 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-25 12:27:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 12:27:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 12:27:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started532297836
+2022-11-25 12:27:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 12:27:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-25 12:32:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not able to login without providing cedentials
+2022-11-25 12:32:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 12:32:50 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1014824123
+2022-11-25 12:32:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not able to login without providing cedentials
+2022-11-25 12:32:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2022-11-25 12:39:40 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not able to login without providing cedentials
+2022-11-25 12:39:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 12:39:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started379115456
+2022-11-25 12:39:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not able to login without providing cedentials
+2022-11-25 12:39:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-25 12:41:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not able to login without providing cedentials
+2022-11-25 12:41:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 12:41:22 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started368727462
+2022-11-25 12:41:25 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not able to login without providing cedentials
+2022-11-25 12:41:25 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-25 12:47:24 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not able to login without providing cedentials
+2022-11-25 12:47:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 12:47:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1198442960
+2022-11-25 12:47:30 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not able to login without providing cedentials
+2022-11-25 12:47:30 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-25 12:52:38 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 12:52:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 12:52:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2084920982
+2022-11-25 12:52:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 12:52:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2022-11-25 12:58:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 12:58:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 12:58:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started844872102
+2022-11-25 12:58:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 12:58:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-25 13:23:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 13:23:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 13:23:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1326998608
+2022-11-25 13:23:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 13:23:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-25 13:35:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 13:35:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 13:35:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started146346292
+2022-11-25 13:35:09 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 13:35:09 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-25 13:36:13 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 13:36:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 13:36:15 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started389247924
+2022-11-25 13:36:19 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 13:36:19 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: UNDEFINED
+2022-11-25 13:38:55 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 13:38:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 13:38:57 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started199000084
+2022-11-25 13:39:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 13:39:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2022-11-25 13:47:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 13:47:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 13:47:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started368727462
+2022-11-25 13:47:57 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 13:47:57 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-25 13:49:03 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 13:49:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 13:49:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2041263297
+2022-11-25 13:49:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 13:49:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-25 13:49:35 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 13:49:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 13:49:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started368727462
+2022-11-25 13:49:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 13:49:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-25 13:49:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 13:49:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 13:50:00 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1103234208
+2022-11-25 13:50:03 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 13:50:03 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-25 13:50:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 13:50:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 13:50:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1326998608
+2022-11-25 13:50:33 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 13:50:33 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-25 14:03:21 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 14:03:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 14:03:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1103234208
+2022-11-25 14:03:29 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 14:03:29 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2022-11-25 14:04:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2022-11-25 14:04:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2022-11-25 14:04:31 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2015455415
+2022-11-25 14:04:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2022-11-25 14:04:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
